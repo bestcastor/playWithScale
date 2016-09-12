@@ -1,4 +1,4 @@
-package algs
+package algs.nQueens
 
 /**
   * Created by nyu on 8/27/16.
